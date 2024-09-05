@@ -1,4 +1,4 @@
-<h1 align="center">Hello.👋 My name is Abdalla Alhag. Welcome to my github</h1>
+<h1 align="center">Hello.👋 I'm Abdalla</h1>
 <p align="center">Software Engineer/ Computer Scientist</p>
 
 <p align="center">
