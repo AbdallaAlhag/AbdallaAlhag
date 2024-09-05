@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+<h1 align="center">Hello.👋 My name is Abdalla Alhag. Welcome to my github</h1>
+<p align="center">Software Engineer/ Computer Scientist</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp, python, javascript, react,node js, express,postgres, git, tailwind, vite, vscode, latest, webpack, jest&perline=7" />
+  </a>
+</p>
 <!--
 **AbdallaAlhag/AbdallaAlhag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
