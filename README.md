@@ -1,11 +1,9 @@
-## Hi there 👋
-
 <h1 align="center">Hello.👋 My name is Abdalla Alhag. Welcome to my github</h1>
 <p align="center">Software Engineer/ Computer Scientist</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript, py, cpp, react,node js, express,postgres, git, tailwind, vite, vscode, latest, webpack, jest&perline=7" />
+    <img src="https://skillicons.dev/icons?i=js, py, cpp, react,nodejs, express,postgres, git, tailwind, vite, vscode, latest, webpack, jest&perline=7" />
   </a>
 </p>
 <!--
